@@ -12,6 +12,8 @@ e segliamo questa\
 -Successivamente dobbiamo aggiungere anche il file Chinook.db al seguente link: https://www.sqlitetutorial.net/sqlite-sample-database/\
 -Poi cliccare dove mostra la foto\
 ![235087869-6c102804-fa96-4d1c-939b-7b4fe0c36987](https://user-images.githubusercontent.com/116791046/236850632-7c789f8c-c005-4710-a40f-c0bbc00725cc.png)\
+-Questo file va poi aggiunto nella cartella che abbiamo gia nel nostro che si chiama Resources
+
 
 
 
